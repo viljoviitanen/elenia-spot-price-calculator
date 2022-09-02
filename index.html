@@ -13,7 +13,8 @@ for (var i=0; i<10; i++) {
 }
 var marginal=0
 var count=0
-var monthly=[]
+var monthlyconsumption=[]
+var monthlycost=[]
 
 // convert price data to usable form. key is "2022-01-01 06:00:00"
 function parseprice(obj) {
@@ -38,7 +39,8 @@ function consrow(row) {
                 rawprice=priceref.get(key)
                 price=rawprice*1.24 + marginal
 		if (price>0 && kwh>0) {
-			monthly[m]+= kwh*price
+			monthlycost[m]+= kwh*price
+			monthlyconsumption[m]+= kwh
 		}
 		if(count < 24*32) {
 			console.log("key:"+key)
@@ -46,30 +48,39 @@ function consrow(row) {
 			console.log("price:"+price)
 			console.log("kwh:"+kwh)
 			console.log("eur cost for day:"+kwh*price/100)
-			console.log("monthly:"+m+" "+monthly[m])
-			monthly[m]+= kwh*price
+			console.log("monthly cost:"+m+" "+monthlycost[m])
+			console.log("monthly consumption:"+m+" "+monthlyconsumption[m])
 		}
 	}
 }
 function complete(results, file) {
 	console.log("Parsing complete:", results, file);
 	results.data.forEach(i => consrow(i))
-	console.log(monthly)	
 	out=""
 	for(i=1; i<9; i++) {
-		out=out+(i.toString()+" "+(parseInt(monthly[i])/100).toString()+"<br>")
+		out=out+(
+			i.toString()+" "+
+			(parseInt(monthlycost[i])/100).toString()+" € "+
+			(parseInt(monthlyconsumption[i])).toString()+" kWh "+
+			(parseInt(monthlycost[i]/monthlyconsumption[i])).toString()+" c/kWh"+
+			"<br>"
+		)
 	}
 	document.getElementById('out').innerHTML=out
 }
 function parse() {
-        monthly=[0,0,0,0,0,0,0,0,0,0,0,0,0]
+        monthlycost=[0,0,0,0,0,0,0,0,0,0,0,0,0]
+        monthlyconsumption=[0,0,0,0,0,0,0,0,0,0,0,0,0]
 	marginal = parseFloat(document.getElementById('marginal').value)
 	result = Papa.parse(document.getElementById('file').files[0], {complete: complete})
 }
 </script>
-Loads and parses Elenia consumption hourly export csv file for the year to date (2022). Outputs what electrivity would have cost per month in EUR including VAT with spot marginal.
+
+Loads and parses Elenia consumption hourly export csv file for the year to date (2022). Outputs what electrivity would have cost per month in EUR including VAT with spot marginal, consumption and average price/kWh.
+<p>
 All processing of consumption data is local. Spot prices are loaded until end of August.
-File format is like this:
+<p>
+Elenia csv file format is like this:
 <pre>
 Aikaväli;Keskiteho;Lämpötila
 1.1. 00:00:00;0,60;-6,9
@@ -77,10 +88,13 @@ Aikaväli;Keskiteho;Lämpötila
 1.1. 02:00:00;0,13;
 </pre>
 <p>
-<input type="text" id="marginal" value="0.5" onchange='parse()'>snt/kWh
+<input type="text" id="marginal" value="0.5" onchange='parse()'> marginal c/kWh
 <p>
 <input type="file" id="file" onchange='parse()'>
 <p>
-<div id="out">
+<div id="out"></div>
 <p>
+<hr>
 <a href="https://github.com/viljoviitanen/elenia-spot-price-calculator">https://github.com/viljoviitanen/elenia-spot-price-calculator</a>
+<p>
+Uses MIT licenced <a href="https://www.papaparse.com/">PapaParse</a> Copyright (c) 2015 Matthew Holt
