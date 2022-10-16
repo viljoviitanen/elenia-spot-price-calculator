@@ -57,7 +57,7 @@ function complete(results, file) {
 	console.log("Parsing complete:", results, file);
 	results.data.forEach(i => consrow(i))
 	out=""
-	for(i=1; i<9; i++) {
+	for(i=1; i<10; i++) {
 		out=out+(
 			i.toString()+" "+
 			(parseInt(monthlycost[i])/100).toString()+" € "+
@@ -76,9 +76,9 @@ function parse() {
 }
 </script>
 
-Loads and parses Elenia consumption hourly export csv file for the year to date (2022). Outputs what electrivity would have cost per month in EUR including VAT with spot marginal, consumption and average price/kWh.
+Loads and parses Elenia consumption hourly export csv file for the year to date (2022). Outputs what electrivity would have cost per month in EUR including 24% VAT with spot marginal, consumption and average price/kWh.
 <p>
-All processing of consumption data is local. Spot prices are loaded until end of August.
+All processing of consumption data is local. Spot prices are loaded until end of September 2022.
 <p>
 Elenia csv file format is like this:
 <pre>
@@ -87,6 +87,7 @@ Aikaväli;Keskiteho;Lämpötila
 1.1. 01:00:00;0,45;
 1.1. 02:00:00;0,13;
 </pre>
+It is found in Elenia Aina service, "Kulutustiedot", "Lataa kulutus tuntitasolla" button.
 <p>
 <input type="text" id="marginal" value="0.5" onchange='parse()'> marginal c/kWh
 <p>
@@ -97,4 +98,4 @@ Aikaväli;Keskiteho;Lämpötila
 <hr>
 <a href="https://github.com/viljoviitanen/elenia-spot-price-calculator">https://github.com/viljoviitanen/elenia-spot-price-calculator</a>
 <p>
-Uses MIT licenced <a href="https://www.papaparse.com/">PapaParse</a> Copyright (c) 2015 Matthew Holt
+Uses MIT licenced <a href="https://www.papaparse.com/">PapaParse</a> Copyright (c) 2015 Matthew Holt. This javascript code copyright (c) 2022 Viljo Viitanen
