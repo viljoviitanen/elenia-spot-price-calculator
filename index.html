@@ -57,7 +57,7 @@ function complete(results, file) {
 	console.log("Parsing complete:", results, file);
 	results.data.forEach(i => consrow(i))
 	out=""
-	for(i=1; i<10; i++) {
+	for(i=1; i<11; i++) {
 		out=out+(
 			i.toString()+" "+
 			(parseInt(monthlycost[i])/100).toString()+" € "+
@@ -76,9 +76,9 @@ function parse() {
 }
 </script>
 
-Loads and parses Elenia consumption hourly export csv file for the year to date (2022). Outputs what electrivity would have cost per month in EUR including 24% VAT with spot marginal, consumption and average price/kWh.
+Loads and parses Elenia consumption hourly export csv file for the year to date (2022). Outputs what electricity would have cost per month in EUR including 24% VAT with spot marginal, consumption and average price/kWh.
 <p>
-All processing of consumption data is local. Spot prices are loaded until end of September 2022.
+All processing of consumption data is local. Spot prices are loaded until end of October 2022.
 <p>
 Elenia csv file format is like this:
 <pre>

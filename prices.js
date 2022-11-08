@@ -52406,6 +52406,5965 @@ prices=[
     "value": 35.65,
     "priceArea": "",
     "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T00:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "00:00",
+    "value": 25.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T01:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "01:00",
+    "value": 21.43,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T02:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "02:00",
+    "value": 18.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T03:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "03:00",
+    "value": 18.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T04:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "04:00",
+    "value": 17.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T05:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "05:00",
+    "value": 19.86,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T06:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "06:00",
+    "value": 23.19,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T07:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "07:00",
+    "value": 37.41,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T08:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "08:00",
+    "value": 31.7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T09:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "09:00",
+    "value": 33.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T10:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "10:00",
+    "value": 34.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T11:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "11:00",
+    "value": 32.67,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T12:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "12:00",
+    "value": 31.71,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T13:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "13:00",
+    "value": 28.33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T14:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "14:00",
+    "value": 21.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T15:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "15:00",
+    "value": 20.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T16:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "16:00",
+    "value": 26.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T17:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "17:00",
+    "value": 31.71,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T18:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "18:00",
+    "value": 31.25,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T19:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "19:00",
+    "value": 31.24,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T20:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "20:00",
+    "value": 28.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T21:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "21:00",
+    "value": 19.86,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T22:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "22:00",
+    "value": 20.58,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-01T23:00:00",
+    "timeStampDay": "2022-10-01",
+    "timeStampHour": "23:00",
+    "value": 17.7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T00:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "00:00",
+    "value": 9.71,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T01:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "01:00",
+    "value": 7.19,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T02:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "02:00",
+    "value": 15.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T03:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "03:00",
+    "value": 15.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T04:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "04:00",
+    "value": 17.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T05:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "05:00",
+    "value": 12.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T06:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "06:00",
+    "value": 12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T07:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "07:00",
+    "value": 10.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T08:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "08:00",
+    "value": 16.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T09:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "09:00",
+    "value": 25.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T10:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "10:00",
+    "value": 31.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T11:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "11:00",
+    "value": 32.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T12:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "12:00",
+    "value": 30.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T13:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "13:00",
+    "value": 30.15,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T14:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "14:00",
+    "value": 30.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T15:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "15:00",
+    "value": 32.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T16:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "16:00",
+    "value": 33.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T17:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "17:00",
+    "value": 34.85,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T18:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "18:00",
+    "value": 44.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T19:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "19:00",
+    "value": 50,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T20:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "20:00",
+    "value": 53.07,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T21:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "21:00",
+    "value": 33.63,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T22:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "22:00",
+    "value": 24.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-02T23:00:00",
+    "timeStampDay": "2022-10-02",
+    "timeStampHour": "23:00",
+    "value": 18.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T00:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "00:00",
+    "value": 16.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T01:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "01:00",
+    "value": 8.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T02:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "02:00",
+    "value": 9.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T03:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "03:00",
+    "value": 9.44,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T04:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "04:00",
+    "value": 9.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T05:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "05:00",
+    "value": 10.16,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T06:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "06:00",
+    "value": 25.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T07:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "07:00",
+    "value": 33.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T08:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "08:00",
+    "value": 33.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T09:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "09:00",
+    "value": 36.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T10:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "10:00",
+    "value": 34.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T11:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "11:00",
+    "value": 28.15,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T12:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "12:00",
+    "value": 32.86,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T13:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "13:00",
+    "value": 35.78,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T14:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "14:00",
+    "value": 29.39,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T15:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "15:00",
+    "value": 26.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T16:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "16:00",
+    "value": 25.92,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T17:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "17:00",
+    "value": 22.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T18:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "18:00",
+    "value": 32.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T19:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "19:00",
+    "value": 38.44,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T20:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "20:00",
+    "value": 37.66,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T21:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "21:00",
+    "value": 34.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T22:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "22:00",
+    "value": 32.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-03T23:00:00",
+    "timeStampDay": "2022-10-03",
+    "timeStampHour": "23:00",
+    "value": 21.47,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T00:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "00:00",
+    "value": 15.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T01:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "01:00",
+    "value": 13.09,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T02:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "02:00",
+    "value": 9.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T03:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "03:00",
+    "value": 8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T04:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "04:00",
+    "value": 7.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T05:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "05:00",
+    "value": 13.54,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T06:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "06:00",
+    "value": 19.69,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T07:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "07:00",
+    "value": 23.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T08:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "08:00",
+    "value": 28.25,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T09:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "09:00",
+    "value": 34.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T10:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "10:00",
+    "value": 30.95,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T11:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "11:00",
+    "value": 26.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T12:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "12:00",
+    "value": 24.35,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T13:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "13:00",
+    "value": 22.89,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T14:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "14:00",
+    "value": 21.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T15:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "15:00",
+    "value": 21.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T16:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "16:00",
+    "value": 24.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T17:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "17:00",
+    "value": 24.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T18:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "18:00",
+    "value": 31.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T19:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "19:00",
+    "value": 41.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T20:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "20:00",
+    "value": 48.39,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T21:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "21:00",
+    "value": 25.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T22:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "22:00",
+    "value": 27.93,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-04T23:00:00",
+    "timeStampDay": "2022-10-04",
+    "timeStampHour": "23:00",
+    "value": 25.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T00:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "00:00",
+    "value": 13.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T01:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "01:00",
+    "value": 3.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T02:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "02:00",
+    "value": 1.7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T03:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "03:00",
+    "value": 1.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T04:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "04:00",
+    "value": 1.69,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T05:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "05:00",
+    "value": 1.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T06:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "06:00",
+    "value": 2.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T07:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "07:00",
+    "value": 11,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T08:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "08:00",
+    "value": 6.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T09:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "09:00",
+    "value": 7.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T10:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "10:00",
+    "value": 7.33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T11:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "11:00",
+    "value": 7.69,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T12:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "12:00",
+    "value": 5.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T13:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "13:00",
+    "value": 3.89,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T14:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "14:00",
+    "value": 2.35,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T15:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "15:00",
+    "value": 1.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T16:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "16:00",
+    "value": 1.95,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T17:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "17:00",
+    "value": 3.59,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T18:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "18:00",
+    "value": 2.57,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T19:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "19:00",
+    "value": 2.02,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T20:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "20:00",
+    "value": 1.6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T21:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "21:00",
+    "value": 1.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T22:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "22:00",
+    "value": 0.44,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-05T23:00:00",
+    "timeStampDay": "2022-10-05",
+    "timeStampHour": "23:00",
+    "value": 0.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T00:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "00:00",
+    "value": -0.02,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T01:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "01:00",
+    "value": -0.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T02:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "02:00",
+    "value": -0.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T03:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "03:00",
+    "value": -0.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T04:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "04:00",
+    "value": -0.05,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T05:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "05:00",
+    "value": -0.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T06:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "06:00",
+    "value": 0.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T07:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "07:00",
+    "value": 0.43,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T08:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "08:00",
+    "value": 1.02,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T09:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "09:00",
+    "value": 1.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T10:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "10:00",
+    "value": 1.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T11:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "11:00",
+    "value": 1.11,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T12:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "12:00",
+    "value": 0.89,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T13:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "13:00",
+    "value": 0.57,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T14:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "14:00",
+    "value": 0.44,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T15:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "15:00",
+    "value": 0.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T16:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "16:00",
+    "value": 0.44,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T17:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "17:00",
+    "value": 0.42,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T18:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "18:00",
+    "value": 0.66,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T19:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "19:00",
+    "value": 0.55,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T20:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "20:00",
+    "value": 0.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T21:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "21:00",
+    "value": 0.33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T22:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "22:00",
+    "value": 0.15,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-06T23:00:00",
+    "timeStampDay": "2022-10-06",
+    "timeStampHour": "23:00",
+    "value": 0.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T00:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "00:00",
+    "value": 0,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T01:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "01:00",
+    "value": -0.09,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T02:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "02:00",
+    "value": -0.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T03:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "03:00",
+    "value": -0.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T04:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "04:00",
+    "value": -0.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T05:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "05:00",
+    "value": 0,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T06:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "06:00",
+    "value": 0.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T07:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "07:00",
+    "value": 0.6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T08:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "08:00",
+    "value": 1.33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T09:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "09:00",
+    "value": 1.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T10:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "10:00",
+    "value": 1.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T11:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "11:00",
+    "value": 1.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T12:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "12:00",
+    "value": 1.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T13:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "13:00",
+    "value": 1.41,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T14:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "14:00",
+    "value": 1.37,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T15:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "15:00",
+    "value": 1.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T16:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "16:00",
+    "value": 1.05,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T17:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "17:00",
+    "value": 0.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T18:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "18:00",
+    "value": 1.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T19:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "19:00",
+    "value": 1.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T20:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "20:00",
+    "value": 1.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T21:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "21:00",
+    "value": 0.81,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T22:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "22:00",
+    "value": 0.57,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-07T23:00:00",
+    "timeStampDay": "2022-10-07",
+    "timeStampHour": "23:00",
+    "value": 0.38,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T00:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "00:00",
+    "value": 0.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T01:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "01:00",
+    "value": 0,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T02:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "02:00",
+    "value": 0,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T03:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "03:00",
+    "value": 0,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T04:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "04:00",
+    "value": 0,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T05:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "05:00",
+    "value": 0.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T06:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "06:00",
+    "value": 0.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T07:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "07:00",
+    "value": 0.38,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T08:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "08:00",
+    "value": 0.75,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T09:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "09:00",
+    "value": 1.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T10:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "10:00",
+    "value": 1.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T11:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "11:00",
+    "value": 1.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T12:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "12:00",
+    "value": 1.16,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T13:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "13:00",
+    "value": 1.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T14:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "14:00",
+    "value": 0.94,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T15:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "15:00",
+    "value": 0.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T16:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "16:00",
+    "value": 0.97,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T17:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "17:00",
+    "value": 1.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T18:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "18:00",
+    "value": 1.09,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T19:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "19:00",
+    "value": 1.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T20:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "20:00",
+    "value": 1.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T21:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "21:00",
+    "value": 1.07,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T22:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "22:00",
+    "value": 0.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-08T23:00:00",
+    "timeStampDay": "2022-10-08",
+    "timeStampHour": "23:00",
+    "value": 0.84,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T00:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "00:00",
+    "value": 0.53,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T01:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "01:00",
+    "value": 0.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T02:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "02:00",
+    "value": 0.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T03:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "03:00",
+    "value": 0.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T04:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "04:00",
+    "value": 0.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T05:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "05:00",
+    "value": 0.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T06:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "06:00",
+    "value": 0.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T07:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "07:00",
+    "value": 1.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T08:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "08:00",
+    "value": 1.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T09:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "09:00",
+    "value": 1.39,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T10:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "10:00",
+    "value": 1.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T11:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "11:00",
+    "value": 1.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T12:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "12:00",
+    "value": 1.55,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T13:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "13:00",
+    "value": 1.47,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T14:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "14:00",
+    "value": 1.42,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T15:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "15:00",
+    "value": 1.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T16:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "16:00",
+    "value": 1.44,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T17:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "17:00",
+    "value": 1.47,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T18:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "18:00",
+    "value": 1.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T19:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "19:00",
+    "value": 1.54,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T20:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "20:00",
+    "value": 1.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T21:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "21:00",
+    "value": 1.43,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T22:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "22:00",
+    "value": 1.43,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-09T23:00:00",
+    "timeStampDay": "2022-10-09",
+    "timeStampHour": "23:00",
+    "value": 1.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T00:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "00:00",
+    "value": 1.07,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T01:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "01:00",
+    "value": 1.12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T02:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "02:00",
+    "value": 1.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T03:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "03:00",
+    "value": 0.98,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T04:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "04:00",
+    "value": 0.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T05:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "05:00",
+    "value": 0.95,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T06:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "06:00",
+    "value": 1.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T07:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "07:00",
+    "value": 1.25,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T08:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "08:00",
+    "value": 1.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T09:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "09:00",
+    "value": 1.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T10:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "10:00",
+    "value": 1.35,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T11:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "11:00",
+    "value": 1.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T12:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "12:00",
+    "value": 1.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T13:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "13:00",
+    "value": 1.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T14:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "14:00",
+    "value": 1.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T15:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "15:00",
+    "value": 0.93,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T16:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "16:00",
+    "value": 1.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T17:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "17:00",
+    "value": 1.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T18:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "18:00",
+    "value": 1.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T19:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "19:00",
+    "value": 1.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T20:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "20:00",
+    "value": 1.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T21:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "21:00",
+    "value": 1.07,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T22:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "22:00",
+    "value": 0.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-10T23:00:00",
+    "timeStampDay": "2022-10-10",
+    "timeStampHour": "23:00",
+    "value": 0.69,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T00:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "00:00",
+    "value": 0.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T01:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "01:00",
+    "value": 0.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T02:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "02:00",
+    "value": 0.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T03:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "03:00",
+    "value": 0.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T04:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "04:00",
+    "value": 0.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T05:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "05:00",
+    "value": 0.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T06:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "06:00",
+    "value": 0.78,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T07:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "07:00",
+    "value": 1.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T08:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "08:00",
+    "value": 1.26,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T09:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "09:00",
+    "value": 1.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T10:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "10:00",
+    "value": 1.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T11:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "11:00",
+    "value": 1.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T12:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "12:00",
+    "value": 1.26,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T13:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "13:00",
+    "value": 1.26,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T14:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "14:00",
+    "value": 2.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T15:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "15:00",
+    "value": 1.11,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T16:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "16:00",
+    "value": 1.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T17:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "17:00",
+    "value": 1.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T18:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "18:00",
+    "value": 1.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T19:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "19:00",
+    "value": 1.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T20:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "20:00",
+    "value": 1.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T21:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "21:00",
+    "value": 1.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T22:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "22:00",
+    "value": 1.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-11T23:00:00",
+    "timeStampDay": "2022-10-11",
+    "timeStampHour": "23:00",
+    "value": 0.84,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T00:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "00:00",
+    "value": 0.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T01:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "01:00",
+    "value": 1.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T02:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "02:00",
+    "value": 1.03,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T03:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "03:00",
+    "value": 1.05,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T04:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "04:00",
+    "value": 1.12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T05:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "05:00",
+    "value": 1.23,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T06:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "06:00",
+    "value": 1.36,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T07:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "07:00",
+    "value": 5.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T08:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "08:00",
+    "value": 6.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T09:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "09:00",
+    "value": 8.35,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T10:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "10:00",
+    "value": 20.98,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T11:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "11:00",
+    "value": 26.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T12:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "12:00",
+    "value": 20.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T13:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "13:00",
+    "value": 19.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T14:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "14:00",
+    "value": 19.7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T15:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "15:00",
+    "value": 19,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T16:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "16:00",
+    "value": 18.71,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T17:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "17:00",
+    "value": 18.54,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T18:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "18:00",
+    "value": 20.33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T19:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "19:00",
+    "value": 20.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T20:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "20:00",
+    "value": 20.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T21:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "21:00",
+    "value": 18.39,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T22:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "22:00",
+    "value": 17.67,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-12T23:00:00",
+    "timeStampDay": "2022-10-12",
+    "timeStampHour": "23:00",
+    "value": 12.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T00:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "00:00",
+    "value": 8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T01:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "01:00",
+    "value": 1.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T02:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "02:00",
+    "value": 1.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T03:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "03:00",
+    "value": 1.42,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T04:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "04:00",
+    "value": 1.41,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T05:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "05:00",
+    "value": 1.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T06:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "06:00",
+    "value": 1.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T07:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "07:00",
+    "value": 2.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T08:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "08:00",
+    "value": 11.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T09:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "09:00",
+    "value": 15.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T10:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "10:00",
+    "value": 15.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T11:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "11:00",
+    "value": 15.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T12:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "12:00",
+    "value": 15.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T13:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "13:00",
+    "value": 13.59,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T14:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "14:00",
+    "value": 12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T15:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "15:00",
+    "value": 11.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T16:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "16:00",
+    "value": 11.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T17:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "17:00",
+    "value": 12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T18:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "18:00",
+    "value": 15.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T19:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "19:00",
+    "value": 19.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T20:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "20:00",
+    "value": 17.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T21:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "21:00",
+    "value": 5.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T22:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "22:00",
+    "value": 4.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-13T23:00:00",
+    "timeStampDay": "2022-10-13",
+    "timeStampHour": "23:00",
+    "value": 3.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T00:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "00:00",
+    "value": 2.97,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T01:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "01:00",
+    "value": 3.23,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T02:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "02:00",
+    "value": 3.43,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T03:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "03:00",
+    "value": 3.64,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T04:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "04:00",
+    "value": 4.62,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T05:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "05:00",
+    "value": 6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T06:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "06:00",
+    "value": 17.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T07:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "07:00",
+    "value": 22.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T08:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "08:00",
+    "value": 24.38,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T09:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "09:00",
+    "value": 22.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T10:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "10:00",
+    "value": 25.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T11:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "11:00",
+    "value": 29.73,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T12:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "12:00",
+    "value": 25.98,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T13:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "13:00",
+    "value": 26.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T14:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "14:00",
+    "value": 23.84,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T15:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "15:00",
+    "value": 22.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T16:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "16:00",
+    "value": 24.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T17:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "17:00",
+    "value": 25.86,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T18:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "18:00",
+    "value": 27.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T19:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "19:00",
+    "value": 29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T20:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "20:00",
+    "value": 30.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T21:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "21:00",
+    "value": 22.39,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T22:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "22:00",
+    "value": 21.79,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-14T23:00:00",
+    "timeStampDay": "2022-10-14",
+    "timeStampHour": "23:00",
+    "value": 18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T00:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "00:00",
+    "value": 11.64,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T01:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "01:00",
+    "value": 2.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T02:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "02:00",
+    "value": 2.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T03:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "03:00",
+    "value": 1.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T04:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "04:00",
+    "value": 1.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T05:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "05:00",
+    "value": 1.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T06:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "06:00",
+    "value": 2.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T07:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "07:00",
+    "value": 2.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T08:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "08:00",
+    "value": 1.84,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T09:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "09:00",
+    "value": 2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T10:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "10:00",
+    "value": 2.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T11:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "11:00",
+    "value": 6.41,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T12:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "12:00",
+    "value": 5.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T13:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "13:00",
+    "value": 4.61,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T14:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "14:00",
+    "value": 5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T15:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "15:00",
+    "value": 4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T16:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "16:00",
+    "value": 2.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T17:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "17:00",
+    "value": 4.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T18:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "18:00",
+    "value": 9.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T19:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "19:00",
+    "value": 13.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T20:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "20:00",
+    "value": 2.47,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T21:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "21:00",
+    "value": 1.94,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T22:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "22:00",
+    "value": 1.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-15T23:00:00",
+    "timeStampDay": "2022-10-15",
+    "timeStampHour": "23:00",
+    "value": 1.66,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T00:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "00:00",
+    "value": 1.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T01:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "01:00",
+    "value": 1.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T02:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "02:00",
+    "value": 1.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T03:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "03:00",
+    "value": 1.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T04:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "04:00",
+    "value": 1.6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T05:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "05:00",
+    "value": 1.69,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T06:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "06:00",
+    "value": 1.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T07:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "07:00",
+    "value": 1.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T08:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "08:00",
+    "value": 1.89,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T09:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "09:00",
+    "value": 2.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T10:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "10:00",
+    "value": 2.15,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T11:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "11:00",
+    "value": 2.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T12:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "12:00",
+    "value": 1.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T13:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "13:00",
+    "value": 1.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T14:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "14:00",
+    "value": 1.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T15:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "15:00",
+    "value": 1.63,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T16:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "16:00",
+    "value": 1.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T17:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "17:00",
+    "value": 1.74,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T18:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "18:00",
+    "value": 1.89,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T19:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "19:00",
+    "value": 2.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T20:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "20:00",
+    "value": 1.95,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T21:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "21:00",
+    "value": 1.84,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T22:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "22:00",
+    "value": 1.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-16T23:00:00",
+    "timeStampDay": "2022-10-16",
+    "timeStampHour": "23:00",
+    "value": 1.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T00:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "00:00",
+    "value": 1.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T01:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "01:00",
+    "value": 2.02,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T02:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "02:00",
+    "value": 4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T03:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "03:00",
+    "value": 4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T04:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "04:00",
+    "value": 6.18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T05:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "05:00",
+    "value": 9.47,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T06:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "06:00",
+    "value": 13.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T07:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "07:00",
+    "value": 13.83,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T08:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "08:00",
+    "value": 12.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T09:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "09:00",
+    "value": 16.92,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T10:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "10:00",
+    "value": 15.63,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T11:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "11:00",
+    "value": 12.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T12:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "12:00",
+    "value": 12.89,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T13:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "13:00",
+    "value": 11.75,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T14:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "14:00",
+    "value": 11.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T15:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "15:00",
+    "value": 12.03,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T16:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "16:00",
+    "value": 13.6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T17:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "17:00",
+    "value": 14.84,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T18:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "18:00",
+    "value": 13.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T19:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "19:00",
+    "value": 15.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T20:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "20:00",
+    "value": 12.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T21:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "21:00",
+    "value": 4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T22:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "22:00",
+    "value": 6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-17T23:00:00",
+    "timeStampDay": "2022-10-17",
+    "timeStampHour": "23:00",
+    "value": 8.67,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T00:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "00:00",
+    "value": 5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T01:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "01:00",
+    "value": 2.42,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T02:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "02:00",
+    "value": 6.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T03:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "03:00",
+    "value": 9.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T04:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "04:00",
+    "value": 9.79,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T05:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "05:00",
+    "value": 11.54,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T06:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "06:00",
+    "value": 16.18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T07:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "07:00",
+    "value": 18.24,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T08:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "08:00",
+    "value": 20.81,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T09:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "09:00",
+    "value": 22.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T10:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "10:00",
+    "value": 20.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T11:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "11:00",
+    "value": 20.24,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T12:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "12:00",
+    "value": 18.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T13:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "13:00",
+    "value": 16.79,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T14:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "14:00",
+    "value": 15.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T15:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "15:00",
+    "value": 15.26,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T16:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "16:00",
+    "value": 17.62,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T17:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "17:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T18:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "18:00",
+    "value": 11.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T19:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "19:00",
+    "value": 15.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T20:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "20:00",
+    "value": 12.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T21:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "21:00",
+    "value": 7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T22:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "22:00",
+    "value": 8.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-18T23:00:00",
+    "timeStampDay": "2022-10-18",
+    "timeStampHour": "23:00",
+    "value": 6.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T00:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "00:00",
+    "value": 1.6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T01:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "01:00",
+    "value": 1.6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T02:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "02:00",
+    "value": 1.57,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T03:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "03:00",
+    "value": 1.58,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T04:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "04:00",
+    "value": 1.6,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T05:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "05:00",
+    "value": 6.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T06:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "06:00",
+    "value": 10.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T07:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "07:00",
+    "value": 15.69,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T08:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "08:00",
+    "value": 18.54,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T09:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "09:00",
+    "value": 19.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T10:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "10:00",
+    "value": 19.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T11:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "11:00",
+    "value": 18.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T12:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "12:00",
+    "value": 17.42,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T13:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "13:00",
+    "value": 15.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T14:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "14:00",
+    "value": 14.86,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T15:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "15:00",
+    "value": 14.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T16:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "16:00",
+    "value": 14.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T17:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "17:00",
+    "value": 16.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T18:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "18:00",
+    "value": 18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T19:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "19:00",
+    "value": 17.67,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T20:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "20:00",
+    "value": 16.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T21:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "21:00",
+    "value": 15.73,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T22:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "22:00",
+    "value": 14.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-19T23:00:00",
+    "timeStampDay": "2022-10-19",
+    "timeStampHour": "23:00",
+    "value": 8.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T00:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "00:00",
+    "value": 1.97,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T01:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "01:00",
+    "value": 2.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T02:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "02:00",
+    "value": 2.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T03:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "03:00",
+    "value": 2.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T04:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "04:00",
+    "value": 2.63,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T05:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "05:00",
+    "value": 8.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T06:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "06:00",
+    "value": 14.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T07:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "07:00",
+    "value": 19.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T08:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "08:00",
+    "value": 29.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T09:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "09:00",
+    "value": 31.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T10:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "10:00",
+    "value": 33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T11:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "11:00",
+    "value": 28.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T12:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "12:00",
+    "value": 24.75,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T13:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "13:00",
+    "value": 24.93,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T14:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "14:00",
+    "value": 23.15,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T15:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "15:00",
+    "value": 22.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T16:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "16:00",
+    "value": 21.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T17:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "17:00",
+    "value": 19.83,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T18:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "18:00",
+    "value": 26.91,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T19:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "19:00",
+    "value": 30,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T20:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "20:00",
+    "value": 20.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T21:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "21:00",
+    "value": 17.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T22:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "22:00",
+    "value": 19.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-20T23:00:00",
+    "timeStampDay": "2022-10-20",
+    "timeStampHour": "23:00",
+    "value": 19.94,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T00:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "00:00",
+    "value": 16.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T01:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "01:00",
+    "value": 16.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T02:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "02:00",
+    "value": 14.59,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T03:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "03:00",
+    "value": 13.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T04:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "04:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T05:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "05:00",
+    "value": 13.47,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T06:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "06:00",
+    "value": 19.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T07:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "07:00",
+    "value": 26.98,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T08:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "08:00",
+    "value": 33.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T09:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "09:00",
+    "value": 33.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T10:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "10:00",
+    "value": 27.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T11:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "11:00",
+    "value": 33.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T12:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "12:00",
+    "value": 33.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T13:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "13:00",
+    "value": 33.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T14:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "14:00",
+    "value": 33.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T15:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "15:00",
+    "value": 33.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T16:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "16:00",
+    "value": 33.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T17:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "17:00",
+    "value": 33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T18:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "18:00",
+    "value": 26.98,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T19:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "19:00",
+    "value": 29.02,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T20:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "20:00",
+    "value": 27.58,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T21:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "21:00",
+    "value": 23.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T22:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "22:00",
+    "value": 20.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-21T23:00:00",
+    "timeStampDay": "2022-10-21",
+    "timeStampHour": "23:00",
+    "value": 17.74,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T00:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "00:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T01:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "01:00",
+    "value": 11.37,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T02:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "02:00",
+    "value": 10,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T03:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "03:00",
+    "value": 10.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T04:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "04:00",
+    "value": 10.09,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T05:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "05:00",
+    "value": 9.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T06:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "06:00",
+    "value": 8.53,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T07:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "07:00",
+    "value": 9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T08:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "08:00",
+    "value": 10.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T09:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "09:00",
+    "value": 14.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T10:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "10:00",
+    "value": 14.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T11:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "11:00",
+    "value": 14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T12:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "12:00",
+    "value": 12.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T13:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "13:00",
+    "value": 10,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T14:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "14:00",
+    "value": 9.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T15:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "15:00",
+    "value": 8.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T16:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "16:00",
+    "value": 5.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T17:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "17:00",
+    "value": 5.09,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T18:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "18:00",
+    "value": 9.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T19:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "19:00",
+    "value": 14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T20:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "20:00",
+    "value": 12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T21:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "21:00",
+    "value": 8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T22:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "22:00",
+    "value": 8.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-22T23:00:00",
+    "timeStampDay": "2022-10-22",
+    "timeStampHour": "23:00",
+    "value": 4.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T00:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "00:00",
+    "value": 2.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T01:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "01:00",
+    "value": 3.33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T02:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "02:00",
+    "value": 3.09,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T03:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "03:00",
+    "value": 2.98,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T04:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "04:00",
+    "value": 2.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T05:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "05:00",
+    "value": 3.07,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T06:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "06:00",
+    "value": 3.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T07:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "07:00",
+    "value": 3.07,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T08:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "08:00",
+    "value": 3.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T09:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "09:00",
+    "value": 4.75,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T10:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "10:00",
+    "value": 5.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T11:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "11:00",
+    "value": 8.58,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T12:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "12:00",
+    "value": 9.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T13:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "13:00",
+    "value": 7.53,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T14:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "14:00",
+    "value": 6.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T15:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "15:00",
+    "value": 6.15,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T16:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "16:00",
+    "value": 6.16,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T17:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "17:00",
+    "value": 8.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T18:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "18:00",
+    "value": 9.24,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T19:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "19:00",
+    "value": 9.64,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T20:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "20:00",
+    "value": 8.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T21:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "21:00",
+    "value": 7.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T22:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "22:00",
+    "value": 8.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-23T23:00:00",
+    "timeStampDay": "2022-10-23",
+    "timeStampHour": "23:00",
+    "value": 6.11,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T00:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "00:00",
+    "value": 6.14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T01:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "01:00",
+    "value": 4.97,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T02:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "02:00",
+    "value": 4.84,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T03:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "03:00",
+    "value": 3.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T04:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "04:00",
+    "value": 4.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T05:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "05:00",
+    "value": 8.85,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T06:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "06:00",
+    "value": 17.54,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T07:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "07:00",
+    "value": 29.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T08:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "08:00",
+    "value": 29.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T09:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "09:00",
+    "value": 30,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T10:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "10:00",
+    "value": 27.92,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T11:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "11:00",
+    "value": 24.61,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T12:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "12:00",
+    "value": 24.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T13:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "13:00",
+    "value": 27.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T14:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "14:00",
+    "value": 24.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T15:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "15:00",
+    "value": 21.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T16:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "16:00",
+    "value": 24.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T17:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "17:00",
+    "value": 22.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T18:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "18:00",
+    "value": 30,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T19:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "19:00",
+    "value": 32.71,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T20:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "20:00",
+    "value": 29.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T21:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "21:00",
+    "value": 21.91,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T22:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "22:00",
+    "value": 19.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-24T23:00:00",
+    "timeStampDay": "2022-10-24",
+    "timeStampHour": "23:00",
+    "value": 14.41,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T00:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "00:00",
+    "value": 10.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T01:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "01:00",
+    "value": 16.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T02:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "02:00",
+    "value": 10.95,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T03:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "03:00",
+    "value": 9.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T04:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "04:00",
+    "value": 9.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T05:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "05:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T06:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "06:00",
+    "value": 13.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T07:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "07:00",
+    "value": 18.11,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T08:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "08:00",
+    "value": 18.05,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T09:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "09:00",
+    "value": 18.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T10:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "10:00",
+    "value": 19.16,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T11:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "11:00",
+    "value": 19.99,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T12:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "12:00",
+    "value": 19.02,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T13:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "13:00",
+    "value": 19.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T14:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "14:00",
+    "value": 17.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T15:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "15:00",
+    "value": 15.08,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T16:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "16:00",
+    "value": 14.78,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T17:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "17:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T18:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "18:00",
+    "value": 14.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T19:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "19:00",
+    "value": 17.1,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T20:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "20:00",
+    "value": 14.11,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T21:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "21:00",
+    "value": 7.72,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T22:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "22:00",
+    "value": 8.71,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-25T23:00:00",
+    "timeStampDay": "2022-10-25",
+    "timeStampHour": "23:00",
+    "value": 8.53,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T00:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "00:00",
+    "value": 5.58,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T01:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "01:00",
+    "value": 5.83,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T02:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "02:00",
+    "value": 5.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T03:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "03:00",
+    "value": 5.57,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T04:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "04:00",
+    "value": 5.81,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T05:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "05:00",
+    "value": 9.79,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T06:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "06:00",
+    "value": 12.95,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T07:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "07:00",
+    "value": 18.05,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T08:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "08:00",
+    "value": 17.89,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T09:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "09:00",
+    "value": 17.98,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T10:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "10:00",
+    "value": 17.9,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T11:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "11:00",
+    "value": 18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T12:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "12:00",
+    "value": 18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T13:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "13:00",
+    "value": 17.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T14:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "14:00",
+    "value": 16.4,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T15:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "15:00",
+    "value": 17.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T16:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "16:00",
+    "value": 17.93,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T17:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "17:00",
+    "value": 17.85,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T18:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "18:00",
+    "value": 17.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T19:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "19:00",
+    "value": 18.21,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T20:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "20:00",
+    "value": 18.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T21:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "21:00",
+    "value": 16.91,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T22:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "22:00",
+    "value": 16.19,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-26T23:00:00",
+    "timeStampDay": "2022-10-26",
+    "timeStampHour": "23:00",
+    "value": 14.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T00:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "00:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T01:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "01:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T02:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "02:00",
+    "value": 11.39,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T03:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "03:00",
+    "value": 10.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T04:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "04:00",
+    "value": 11.18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T05:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "05:00",
+    "value": 12.31,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T06:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "06:00",
+    "value": 18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T07:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "07:00",
+    "value": 19.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T08:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "08:00",
+    "value": 20.29,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T09:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "09:00",
+    "value": 21.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T10:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "10:00",
+    "value": 19.51,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T11:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "11:00",
+    "value": 21.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T12:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "12:00",
+    "value": 18.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T13:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "13:00",
+    "value": 20.77,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T14:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "14:00",
+    "value": 19.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T15:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "15:00",
+    "value": 18.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T16:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "16:00",
+    "value": 16.85,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T17:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "17:00",
+    "value": 16.01,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T18:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "18:00",
+    "value": 16.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T19:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "19:00",
+    "value": 16.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T20:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "20:00",
+    "value": 15.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T21:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "21:00",
+    "value": 14,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T22:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "22:00",
+    "value": 14.45,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-27T23:00:00",
+    "timeStampDay": "2022-10-27",
+    "timeStampHour": "23:00",
+    "value": 13.94,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T00:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "00:00",
+    "value": 12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T01:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "01:00",
+    "value": 8.87,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T02:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "02:00",
+    "value": 9.94,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T03:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "03:00",
+    "value": 9.02,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T04:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "04:00",
+    "value": 8.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T05:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "05:00",
+    "value": 10.17,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T06:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "06:00",
+    "value": 12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T07:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "07:00",
+    "value": 12.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T08:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "08:00",
+    "value": 10,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T09:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "09:00",
+    "value": 11.81,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T10:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "10:00",
+    "value": 11.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T11:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "11:00",
+    "value": 10.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T12:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "12:00",
+    "value": 10.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T13:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "13:00",
+    "value": 10.04,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T14:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "14:00",
+    "value": 7.26,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T15:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "15:00",
+    "value": 3.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T16:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "16:00",
+    "value": 3.58,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T17:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "17:00",
+    "value": 8.36,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T18:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "18:00",
+    "value": 13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T19:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "19:00",
+    "value": 15.19,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T20:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "20:00",
+    "value": 13.7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T21:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "21:00",
+    "value": 10.81,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T22:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "22:00",
+    "value": 11.18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-28T23:00:00",
+    "timeStampDay": "2022-10-28",
+    "timeStampHour": "23:00",
+    "value": 5.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T00:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "00:00",
+    "value": 2.78,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T01:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "01:00",
+    "value": 3.06,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T02:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "02:00",
+    "value": 2.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T03:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "03:00",
+    "value": 1.92,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T04:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "04:00",
+    "value": 1.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T05:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "05:00",
+    "value": 1.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T06:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "06:00",
+    "value": 1.39,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T07:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "07:00",
+    "value": 1.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T08:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "08:00",
+    "value": 1.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T09:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "09:00",
+    "value": 1.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T10:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "10:00",
+    "value": 1.52,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T11:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "11:00",
+    "value": 1.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T12:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "12:00",
+    "value": 1.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T13:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "13:00",
+    "value": 0.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T14:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "14:00",
+    "value": 0.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T15:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "15:00",
+    "value": 0.43,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T16:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "16:00",
+    "value": 0.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T17:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "17:00",
+    "value": 1.16,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T18:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "18:00",
+    "value": 1.62,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T19:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "19:00",
+    "value": 1.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T20:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "20:00",
+    "value": 1.66,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T21:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "21:00",
+    "value": 1.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T22:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "22:00",
+    "value": 1.64,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-29T23:00:00",
+    "timeStampDay": "2022-10-29",
+    "timeStampHour": "23:00",
+    "value": 1.65,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T00:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "00:00",
+    "value": 1.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T01:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "01:00",
+    "value": 1.18,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T02:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "02:00",
+    "value": 1.23,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T03:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "03:00",
+    "value": 1.55,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T03:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "03:00",
+    "value": 1.63,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T04:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "04:00",
+    "value": 1.64,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T05:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "05:00",
+    "value": 1.88,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T06:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "06:00",
+    "value": 2.15,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T07:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "07:00",
+    "value": 2.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T08:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "08:00",
+    "value": 2.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T09:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "09:00",
+    "value": 3.48,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T10:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "10:00",
+    "value": 3.73,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T11:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "11:00",
+    "value": 7.96,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T12:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "12:00",
+    "value": 9.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T13:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "13:00",
+    "value": 9.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T14:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "14:00",
+    "value": 9.76,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T15:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "15:00",
+    "value": 10.68,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T16:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "16:00",
+    "value": 12.16,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T17:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "17:00",
+    "value": 13.56,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T18:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "18:00",
+    "value": 15.12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T19:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "19:00",
+    "value": 16.49,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T20:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "20:00",
+    "value": 15.97,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T21:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "21:00",
+    "value": 14.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T22:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "22:00",
+    "value": 14.22,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-30T23:00:00",
+    "timeStampDay": "2022-10-30",
+    "timeStampHour": "23:00",
+    "value": 12.7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T00:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "00:00",
+    "value": 10.93,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T01:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "01:00",
+    "value": 12.97,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T02:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "02:00",
+    "value": 11.91,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T03:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "03:00",
+    "value": 11.63,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T04:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "04:00",
+    "value": 11.46,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T05:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "05:00",
+    "value": 12,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T06:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "06:00",
+    "value": 15.32,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T07:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "07:00",
+    "value": 14.82,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T08:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "08:00",
+    "value": 16.5,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T09:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "09:00",
+    "value": 16.8,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T10:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "10:00",
+    "value": 15.33,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T11:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "11:00",
+    "value": 14.34,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T12:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "12:00",
+    "value": 14.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T13:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "13:00",
+    "value": 14.2,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T14:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "14:00",
+    "value": 14.25,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T15:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "15:00",
+    "value": 15.13,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T16:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "16:00",
+    "value": 16.36,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T17:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "17:00",
+    "value": 16.7,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T18:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "18:00",
+    "value": 17.59,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T19:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "19:00",
+    "value": 17.66,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T20:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "20:00",
+    "value": 16.3,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T21:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "21:00",
+    "value": 14.27,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T22:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "22:00",
+    "value": 13.28,
+    "priceArea": "",
+    "unit": "snt/kWh"
+  },
+  {
+    "timeStamp": "2022-10-31T23:00:00",
+    "timeStampDay": "2022-10-31",
+    "timeStampHour": "23:00",
+    "value": 13.44,
+    "priceArea": "",
+    "unit": "snt/kWh"
   }
 ]
-
